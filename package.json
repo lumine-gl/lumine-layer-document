@@ -20,7 +20,7 @@
     "lumine-now": "git://github.com/lumine-gl/now.git",
     "lumine-tween": "git://github.com/lumine-gl/tween.git",
     "object.observe": "latest",
-    "observed": "latest",
+    "observed": "git://github.com/thure/observed.git",
     "three": "latest",
     "typeform": "git://github.com/lumine-gl/typeform.git"
   }
