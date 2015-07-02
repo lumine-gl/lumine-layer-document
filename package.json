@@ -1,0 +1,27 @@
+{
+  "name": "lumine-layer-document",
+  "version": "0.0.0",
+  "description": "A Lumine Layer that creates bin-packed canvases in a configurable grid.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lumine-gl/lumine-layer-document.git"
+  },
+  "author": "Will Shown <will.shown@microsoft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lumine-gl/lumine-layer-document/issues"
+  },
+  "homepage": "https://github.com/lumine-gl/lumine-layer-document",
+  "dependencies": {
+    "async": "latest",
+    "lodash": "latest",
+    "lumine": "git://github.com/lumine-gl/lumine.git",
+    "lumine-now": "git://github.com/lumine-gl/now.git",
+    "lumine-tween": "git://github.com/lumine-gl/tween.git",
+    "object.observe": "latest",
+    "observed": "latest",
+    "three": "latest",
+    "typeform": "git://github.com/lumine-gl/typeform.git"
+  }
+}
