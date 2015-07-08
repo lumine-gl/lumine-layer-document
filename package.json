@@ -16,12 +16,11 @@
   "dependencies": {
     "async": "latest",
     "lodash": "latest",
-    "lumine": "git://github.com/lumine-gl/lumine.git",
-    "lumine-now": "git://github.com/lumine-gl/now.git",
-    "lumine-tween": "git://github.com/lumine-gl/tween.git",
+    "lumine": "lumine-gl/lumine",
+    "lumine-now": "lumine-gl/now",
+    "lumine-tween": "lumine-gl/tween",
     "object.observe": "latest",
     "observed": "git://github.com/thure/observed.git",
-    "three": "latest",
-    "typeform": "git://github.com/lumine-gl/typeform.git"
+    "three": "latest"
   }
 }
