@@ -21,6 +21,6 @@
     "lumine-tween": "lumine-gl/tween",
     "object.observe": "latest",
     "observed": "git://github.com/thure/observed.git",
-    "three": "latest"
+    "three": "0.71"
   }
 }
